@@ -1,0 +1,2 @@
+# 42Piscine
+Yazılıma başlangıç
